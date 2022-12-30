@@ -9,5 +9,8 @@
   ],
   "publishConfig": {
     "registry": "http://localhost:5000"
+  },
+  "devDependencies": {
+    "lerna": "^6.3.0"
   }
 }
