@@ -5,13 +5,13 @@
   "author": "Eddy Valverde <eddygarros@hotmail.com>",
   "homepage": "https://github.com/eddyvalverde/openautomate#readme",
   "license": "ISC",
-  "main": "lib/backend.js",
+  "main": "src/backend.js",
   "directories": {
-    "lib": "lib",
+    "src": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
